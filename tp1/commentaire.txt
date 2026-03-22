@@ -1,0 +1,2 @@
+Je ne sais pas pourquoi j'ai fait ce CSS comme ça autrement que pour suivre les consignes, la seule chose dont je suis sûr est que le seul commentaire que j'ai rajouté (ligne 88) voulait seulement dire quelque chose, mais je ne sais pas ce que c'était et je le laisse dans le seul but que vous arriviez a le déchiffrer.
+Sinon j'ai tenté d'avoir un CSS qui utilise le plus les variables pour le rendre plus simple a modifier.
